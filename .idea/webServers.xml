@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="96d771ca-48e0-479f-9852-4026a4df6220" name="XAMMP" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\Users\lulka\OneDrive - U-tad\Tercero\Segundo Cuatrimestre\Programacion Web\MagarApi\public" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
